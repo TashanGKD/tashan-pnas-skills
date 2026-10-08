@@ -1,0 +1,4 @@
+interface:
+  display_name: "PNAS Writing"
+  short_description: "Evidence-led manuscript structure and drafting"
+  default_prompt: "Use $pnas-writing to draft or restructure a manuscript with explicit claims, evidence, scope, and review risks."

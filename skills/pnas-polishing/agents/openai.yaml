@@ -1,0 +1,4 @@
+interface:
+  display_name: "PNAS Polishing"
+  short_description: "Scientific prose with calibrated claims"
+  default_prompt: "Use $pnas-polishing to improve scientific prose while preserving facts, uncertainty, and evidence boundaries."

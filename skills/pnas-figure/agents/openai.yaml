@@ -1,0 +1,4 @@
+interface:
+  display_name: "PNAS Figure"
+  short_description: "Scientific figure planning, captions, and audit"
+  default_prompt: "Use $pnas-figure to plan or audit a scientific figure with defined panel roles, data provenance, and reproducibility."
